@@ -2,14 +2,13 @@
 This is an example of a Todo List with Meteor and React
 
 ## Documentation
-["Meteor"](http://docs.meteor.com/#/basic/)
-
-["React"](https://facebook.github.io/react/docs/getting-started.html)
+- [Meteor](http://docs.meteor.com/#/basic/)
+- [React](https://facebook.github.io/react/docs/getting-started.html)
 
 ## Example
-["simple-todos-react"](https://www.meteor.com/tutorials/react/creating-an-app)
+[simple-todos-react](https://www.meteor.com/tutorials/react/creating-an-app)
 
-## Test the example
+## Test
 ```
 git clone https://github.com/peterpetre/todo-meteor-react.git
 cd todo-meteor-react
@@ -18,5 +17,5 @@ meteor
 ```
 
 ## Demo
-["todo-meteor-react"](http://todo-meteor-react.meteor.com/)
+[todo-meteor-react](http://todo-meteor-react.meteor.com/)
 
